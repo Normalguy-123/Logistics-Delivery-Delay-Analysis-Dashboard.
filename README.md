@@ -28,7 +28,8 @@ The number of days the dilevery was delayed beyond the expected dilevery date.
 * On Time
 * 1-2 Days late
 * 3+ Days late
- Tools Used: The following tools and techniques were used in this project:
+# Tools Used:
+The following tools and techniques were used in this project:
 # Microsoft Excel
 # Pivot Tables
 # Data Aggregation
@@ -39,8 +40,13 @@ The number of days the dilevery was delayed beyond the expected dilevery date.
 The Dashboard includes key logistics performance metrics:
  Total Order: Total number of orders processed.
  Average Delay Days:
-Average number of delay days across all dileveries.
  Percentage of On-Tme Delivery:The proportion of deliveries completed within the expected time frame.
+# Dashboard Visualization:
+# Dilevery Delay Category Distribution %
+# Average Delay Day by Warehouse
+# Count of Product by Dilevery Delay Days
+# Order Count by Delay Ctegory And Warehouse
+
 # Key Insights:
 # Product Delay Distribution 
 Fashion products recorded the highest number of delayed dileveries with 463 delayed orders, followed by sports 404 and Electronics 385.This suggests that certain product categories may face more logistical challenges.
@@ -57,7 +63,7 @@ However, Abuja recorded the highest number of delayed dileveries in both the 1-2
 Based on the analysis, the following actions are recommeded:
 # Improve Abuja Warehouse Operations
 Since Abuja recorded the highest average delay days and delayed orders, operational workflows should be review to identify inefficiencies in order processing and dispatch.
-# Optimize Logistics for High-Delay Product Ctegories.
+# Optimize Logistics for High-Delay Product Categories.
 Fashion and sports products recorded the highest delay counts.Logistics teams should investigate possible causes such as packaging complexity, stock availability, or shipping routes.
 # Strenghten Dilevery Monitoring Systems:
 Implementing stronger dilevery tracking systems can help logistics teams detect delays earlier and take corrective actions.
