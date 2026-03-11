@@ -2,7 +2,7 @@
 
 * Project Overview
 
-The Logistics Delivery Delay Analysis Dashboard** analyzes order delivery performance across multiple warehouses to understand the frequency and patterns of delivery delays. The goal of this project is to evaluate delivery efficiency, identify warehouses experiencing higher delays, and understand which product categories are most affected by delayed deliveries.
+The Logistics Delivery Delay Analysis Dashboard analyzes order delivery performance across multiple warehouses to understand the frequency and patterns of delivery delays. The goal of this project is to evaluate delivery efficiency, identify warehouses experiencing higher delays, and understand which product categories are most affected by delayed deliveries.
 
 This analysis helps logistics managers and operations teams monitor delivery performance and identify areas that require improvement in order fulfillment and distribution processes.
 
@@ -62,7 +62,6 @@ This visualization compares the average number of delay days across warehouses.
 
 Abuja warehouse records the highest average delay, indicating potential operational inefficiencies.
 
----
 
 * 3. Order Count by Delay Category and Warehouse
 
